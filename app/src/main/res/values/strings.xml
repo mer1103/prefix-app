@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PreFIX</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="fixable_contacts">Fixable Contacts</string>
+
+    <string name="search_hint">Search by contact name</string>
+    <string name="select_all">Select All</string>
+    <string name="number_to_fix">Number to Fix:</string>
+    <string name="fixed_result">Result:</string>
+
+    <string name="selected_contacts">Selected Contacts</string>
+
+    <string name="fix_dialog_text">contacts will be edited, are you sure?</string>
+
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+
+    <string name="fixing_dialog_text">Wait while we fix your contacts...</string>
+
+    <string name="permission_denied_text">You must allow this app to access your contacts</string>
+    <string name="missing_contacts_message">Contact list was too long, run again to finish repair</string>
+
+
+</resources>

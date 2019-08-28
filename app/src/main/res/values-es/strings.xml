@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PreFIX</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="fixable_contacts">Contactos Reparables</string>
+
+    <string name="search_hint">Buscar por nombre</string>
+    <string name="select_all">Seleccionar Todos</string>
+    <string name="number_to_fix">Número a reparar:</string>
+    <string name="fixed_result">Resultado:</string>
+
+    <string name="selected_contacts">Contactos Seleccionados</string>
+
+    <string name="fix_dialog_text">contactos van a ser reparados. ¿Estás seguro?</string>
+
+    <string name="yes">SÍ</string>
+    <string name="no">NO</string>
+
+    <string name="fixing_dialog_text">Espera mientras reparamos tus contactos...</string>
+
+    <string name="permission_denied_text">Debes autorizar el permiso a tus contactos</string>
+    <string name="missing_contacts_message">La lista de contactos es muy larga, intenta ejecutar nuevamente para terminar.</string>
+
+
+</resources>
